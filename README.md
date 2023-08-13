@@ -1,10 +1,8 @@
 # task_tracker
 
-### By Jed Chen
-Simple Python GUI app made using Tkinter library
+## By Jed Chen
 
 ###
-Before you start:
 A virtual environment folder has to be created and install the package in this folder. 
 In order for the app to function properly, all of the files have to be directly in the virtual environment folder and not in the task_tracker-main folder. 
 
