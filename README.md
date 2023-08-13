@@ -4,7 +4,8 @@
 Simple Python GUI app made using Tkinter library
 
 ###
-In order for the program to run, create a virtual environment folder and install the package in this folder. 
+Before you start:
+A virtual environment folder has to be created and install the package in this folder. 
 In order for the app to function properly, all of the files have to be directly in the virtual environment folder and not in the task_tracker-main folder. 
 
 Secondly, install the "tkcalendar" module that provides a calendar widget. 
